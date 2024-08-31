@@ -1,6 +1,6 @@
 # IIIT-Delhi-CSE-Website
 
-The new website for IIIT-Delhi's CSE Department. It supports efficient data management for admins and significantly improves UI/UX.
+The official website for IIIT-Delhi's CSE Department.
 
 
 ## Demo
