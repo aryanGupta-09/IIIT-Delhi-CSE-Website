@@ -2,7 +2,6 @@
 
 The official website for IIIT-Delhi's CSE Department.
 
-
 * Live: https://cse.iiitd.ac.in/
 
 ## Tech Stack
